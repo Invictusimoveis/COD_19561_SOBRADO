@@ -1,0 +1,26 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_8F520F59_B9B5_3814_41D3_257F73E1E790.label = Acesso Edícula
+panorama_8F43E827_B9B5_F83C_41E6_EEFE095A5486.label = Acesso Lavanderia
+panorama_83FFF44E_B9B5_280C_41DC_985E9A31D2EA.label = Acesso aos quartos
+panorama_8F3D206F_B9B5_280C_41AE_61B938A870C5.label = Banheiro
+panorama_8F4F6453_B9B5_E814_41A4_E0E09AFFE077.label = Banheiro Fundos
+panorama_8F2E6E50_B9B5_3815_41CF_E16B0F258629.label = Cozinha
+panorama_8F06AB10_B9B5_1815_4194_612CA3C018BF.label = Edicula
+panorama_80F1A770_B9B5_6815_41A8_4EA267050D3C.label = Escada
+panorama_80E355B2_B9B5_6814_41E5_D0EDC9F2A256.label = Garagem
+panorama_80D132A7_B9B5_283B_41B3_2F8658255B59.label = Lavanderia
+panorama_80C6DE0A_B9B5_3BF5_4187_330F9EFAE233.label = Quarto da frente
+panorama_80B6ED88_B9B5_18F4_41D8_7F269430F735.label = Quarto dos Fundos
+panorama_DEF33403_CDA1_63A5_41D3_F3175E8831BA.label = Sala
+panorama_80A788BD_B9B4_F80F_41AB_1CF36FDE7248.label = Sala - Cozinha
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Caneleiras_19561_19592
